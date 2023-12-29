@@ -1,0 +1,29 @@
+h1{
+    color: blue;
+    background-color: blanchedalmond;
+}
+
+p{
+    color: deepskyblue;
+    background-color: beige;
+}
+button{
+    color: plum;
+    background-color: blueviolet;
+}
+body{
+    background-color: black;
+}
+*{
+    background-color: aqua;
+}
+
+
+/* element selector */
+h1{
+    color: green ;
+}
+
+#para{
+    color: brown;
+}
