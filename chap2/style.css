@@ -1,0 +1,13 @@
+#one{
+    font-size: 10px;
+     line-height: 50px;  /*  lines ke bich me height */
+    text-transform: uppercase;
+}
+
+#two{
+    font-size: 15px;
+}
+
+#three{
+    font-size:20px ;
+}
